@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Zhimin Mei 👋
 
 <!--
 **mzm1183710118/mzm1183710118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mzm1183710118)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzn00417&layout=compact">
