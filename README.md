@@ -10,6 +10,11 @@
 
 - 🔭 I’m an 4th year undergraduate of Harbin Institute of Technology, majoring in Software Engineering, at Computing Faculty.
 
+### Resources
+
+- [哈工大计算学部课程相关学习链接集合](https://github.com/mzm1183710118/HIT-CS-Courses)
+- [哈尔滨工业大学计算学部实验室介绍](https://github.com/gzn00417/HIT-CS-Labs)
+
 <!--
 **mzm1183710118/mzm1183710118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
