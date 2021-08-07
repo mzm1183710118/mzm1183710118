@@ -2,9 +2,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mzm1183710118.mzm1183710118.README)
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=RenZhou0327&show_icons=true">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=mzm1183710118&show_icons=true">
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenZhou0327&layout=compact">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzm1183710118&layout=compact">
 
 - ⚡ Here is my <u>***[Homepage](https://mzm1183710118.github.io/)***</u>, [Blog](https://blog.csdn.net/alanwalker1?spm=1010.2135.3001.5343).
 
