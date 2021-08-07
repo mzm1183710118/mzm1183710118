@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ⚡ Here is my <u>***[Homepage](https://mzm1183710118.github.io/)***</u>, [Blog](https://blog.csdn.net/alanwalker1?spm=1010.2135.3001.5343).
+- 🔭 I’m an 4th year undergraduate of Harbin Institute of Technology, majoring in Software Engineering, at Computing Faculty.
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=mzm1183710118&show_icons=true">
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzm1183710118&layout=compact">
