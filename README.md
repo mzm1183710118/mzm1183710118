@@ -8,7 +8,8 @@
 
 - ⚡ Here is my [Blog](https://blog.csdn.net/alanwalker1?spm=1010.2135.3001.5343).
 
-- 🔭 I’m an 4th year undergraduate of Harbin Institute of Technology, majoring in Software Engineering, at Computing Faculty.
+- 🔭 I’m now a first-year PhD at PolyU CS.
+- I obtained my bachelor's degree in software engineering from Harbin Institute of Technology in 2022.
 
 ### Resources
 
