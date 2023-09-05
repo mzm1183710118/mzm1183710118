@@ -1,6 +1,5 @@
 ### Hi, I am Zhimin Mei 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mzm1183710118.github.com)
 
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=mzm1183710118&show_icons=true">
