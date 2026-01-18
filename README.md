@@ -8,7 +8,7 @@
 
 - ⚡ Here is my [Blog](https://blog.csdn.net/alanwalker1?spm=1010.2135.3001.5343).
 
-- 🔭 I’m now a first-year PhD Student at Western University.
+- 🔭 I’m now a PhD Student at Western University.
 - I obtained my MPhil degree in computer science from The Hong Kong Polytechnic University in 2024.
 - I obtained my bachelor's degree in software engineering from Harbin Institute of Technology in 2022.
 
